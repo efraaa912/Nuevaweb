@@ -1,0 +1,12 @@
+var getin = prompt("PAGA Y COLOCA LA CONTRASEÑA 🇵🇪 SERRANO 🇵🇪")
+
+  if (getin!="efra200111")
+
+  {location.href='https://www.facebook.com/EFRHACKnoBusquesIDgil?mibextid=ZbWKwL'}
+
+  else
+
+  {alert('CONTRASEÑA CORRECTA SERRANO; DALE A OKAY Y DISFRUTA')}
+  
+  {location.href='https://e9c9c088660a4836be9981d6688d2e30.elf.site'}
+  
